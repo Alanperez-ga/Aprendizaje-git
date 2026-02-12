@@ -1,3 +1,5 @@
+// Creacion de objetos en Javascript
+
 let desarrollador1 = {
 		nombre: 'Juan', // Clave + Valor = Atributo
 		apellido: 'Adasme',
